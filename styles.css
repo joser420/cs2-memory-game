@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: white;
     font-family: Helvetica;
     text-align: center;
 }
@@ -19,6 +19,7 @@ h1 {
     user-select: none;
     cursor: pointer;
     transition: 300ms;
+    color: chocolate;
 }
 
 .card:hover {
